@@ -1,2 +1,2 @@
-mount --make-shared /
-systemctl daemon-reload
+sudo mount --make-shared /
+sudo systemctl daemon-reload
